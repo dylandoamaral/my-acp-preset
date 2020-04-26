@@ -10,7 +10,7 @@ this is my personnal preset for [add-commit-push](https://github.com/dylandoamar
 {
     "name": "dymoji",
     "contributors": ["dylandoamaral"],
-	"actions": {
+    "actions": {
         "a": "add",
         "d": "delete",
         "r": "refactor",

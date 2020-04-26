@@ -1,7 +1,7 @@
 {
     "name": "dymoji",
     "contributors": ["dylandoamaral"],
-	"actions": {
+    "actions": {
         "a": "add",
         "d": "delete",
         "r": "refactor",
