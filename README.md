@@ -9,9 +9,7 @@ this is my personnal preset for [add-commit-push](https://github.com/dylandoamar
 ```json
 {
     "name": "dymoji",
-    "contributors": [
-        "dylandoamaral"
-    ],
+    "contributors": ["dylandoamaral"],
 	"actions": {
         "a": "add",
         "d": "delete",

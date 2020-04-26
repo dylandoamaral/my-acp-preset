@@ -1,8 +1,6 @@
 {
     "name": "dymoji",
-    "contributors": [
-        "dylandoamaral"
-    ],
+    "contributors": ["dylandoamaral"],
 	"actions": {
         "a": "add",
         "d": "delete",
