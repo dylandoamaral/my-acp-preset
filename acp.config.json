@@ -1,5 +1,9 @@
 {
-    "actions": {
+    "name": "dymoji",
+    "contributors": [
+        "dylandoamaral"
+    ],
+	"actions": {
         "a": "add",
         "d": "delete",
         "r": "refactor",

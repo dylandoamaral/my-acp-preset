@@ -8,7 +8,11 @@ this is my personnal preset for [add-commit-push](https://github.com/dylandoamar
 
 ```json
 {
-    "actions": {
+    "name": "dymoji",
+    "contributors": [
+        "dylandoamaral"
+    ],
+	"actions": {
         "a": "add",
         "d": "delete",
         "r": "refactor",
