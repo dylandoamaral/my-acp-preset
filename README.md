@@ -2,7 +2,7 @@
 
 ## Description
 
-this is my personnal preset for [add-commit-push](https://github.com/dylandoamaral/add-commit-push).
+this is my personnal preset for [qush](https://github.com/dylandoamaral/qush).
 
 ## Preset
 
