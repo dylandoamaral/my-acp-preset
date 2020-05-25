@@ -39,6 +39,10 @@
     "p": {
       "value": "💻",
       "description": "to use when you do something for the project"
+    },
+    "e": {
+      "value": "⭐",
+      "description": "to use when a big change happened"
     }
   },
   "template": "<target> <action>: <message>"
